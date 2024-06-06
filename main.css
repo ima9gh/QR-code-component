@@ -13,8 +13,8 @@ body{
     src: url(static/Outfit-Regular.ttf);
 }
 @font-face {
-    font-family: Outfit-SemiBold;
-    src: url(static/Outfit-SemiBold.ttf);
+    font-family: Outfit-Bold;
+    src: url(static/Outfit-Bold.ttf);
 }
 
 .qrcode{
@@ -38,7 +38,7 @@ body{
     font-size: 22px;
     margin-bottom: 20px;
     margin-top: 20px;
-    font-family: Outfit-SemiBold;
+    font-family: Outfit-Bold;
 }
 
 .qrcode .caption{
