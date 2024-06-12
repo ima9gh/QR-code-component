@@ -5,7 +5,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    marjin: 0;
 }
 
 @font-face {
@@ -24,7 +23,6 @@ body{
     text-align: center;
     padding: 15px;
     font-family: Outfit-Regular;
-    box-sizing: border-box;
 }
 
 .qrcode .img img{
